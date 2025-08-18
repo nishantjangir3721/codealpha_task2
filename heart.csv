@@ -1,0 +1,21 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,Diagnosis,Confidence,Logistic_Regression_Prediction,Logistic_Regression_Confidence,SVM_Prediction,SVM_Confidence,Random_Forest_Prediction,Random_Forest_Confidence,XGBoost_Prediction,XGBoost_Confidence
+63,Male,Typical Angina,145,233,Yes,Normal,150,No,2.3,Downsloping,0,Fixed Defect,Positive,0.85,Positive,0.90,Positive,0.80,Positive,0.95,Positive,0.80
+52,Female,Atypical Angina,130,204,No,Normal,172,No,1.4,Upsloping,0,Normal,Negative,0.25,Negative,0.20,Negative,0.30,Negative,0.25,Negative,0.25
+57,Male,Non-anginal Pain,140,241,No,ST-T Wave Abnormality,123,Yes,0.2,Flat,0,Reversible Defect,Positive,0.75,Positive,0.80,Positive,0.70,Positive,0.85,Positive,0.65
+45,Female,Typical Angina,115,260,No,Normal,185,No,0.0,Upsloping,0,Normal,Negative,0.15,Negative,0.10,Negative,0.20,Negative,0.15,Negative,0.15
+68,Male,Asymptomatic,144,193,Yes,Left Ventricular Hypertrophy,141,No,3.4,Flat,2,Reversible Defect,Positive,0.90,Positive,0.95,Positive,0.85,Positive,0.90,Positive,0.90
+49,Female,Non-anginal Pain,130,266,No,Normal,171,No,0.6,Upsloping,0,Normal,Negative,0.30,Negative,0.25,Negative,0.35,Negative,0.30,Negative,0.30
+61,Male,Typical Angina,150,243,Yes,Normal,137,Yes,1.0,Flat,1,Reversible Defect,Positive,0.80,Positive,0.85,Positive,0.75,Positive,0.90,Positive,0.70
+55,Female,Atypical Angina,132,342,No,Normal,166,No,1.2,Upsloping,0,Normal,Negative,0.20,Negative,0.15,Negative,0.25,Negative,0.20,Negative,0.20
+65,Male,Asymptomatic,138,282,Yes,Left Ventricular Hypertrophy,174,No,1.4,Flat,1,Reversible Defect,Positive,0.88,Positive,0.90,Positive,0.85,Positive,0.95,Positive,0.80
+44,Female,Non-anginal Pain,120,263,No,Normal,173,No,0.0,Upsloping,0,Normal,Negative,0.10,Negative,0.05,Negative,0.15,Negative,0.10,Negative,0.10
+60,Male,Typical Angina,140,185,No,Normal,155,No,3.0,Downsloping,2,Fixed Defect,Positive,0.82,Positive,0.85,Positive,0.80,Positive,0.90,Positive,0.75
+54,Female,Atypical Angina,124,266,No,ST-T Wave Abnormality,163,No,0.2,Upsloping,0,Normal,Negative,0.22,Negative,0.20,Negative,0.25,Negative,0.20,Negative,0.25
+50,Male,Non-anginal Pain,140,233,No,Normal,163,No,0.6,Flat,1,Reversible Defect,Positive,0.70,Positive,0.75,Positive,0.65,Positive,0.80,Positive,0.60
+41,Female,Atypical Angina,110,235,No,Normal,153,No,0.0,Upsloping,0,Normal,Negative,0.18,Negative,0.15,Negative,0.20,Negative,0.15,Negative,0.20
+66,Male,Asymptomatic,146,278,Yes,Normal,152,No,0.0,Flat,1,Fixed Defect,Positive,0.78,Positive,0.80,Positive,0.75,Positive,0.85,Positive,0.70
+58,Female,Typical Angina,136,319,No,Left Ventricular Hypertrophy,152,Yes,0.0,Upsloping,2,Normal,Positive,0.65,Positive,0.70,Positive,0.60,Positive,0.75,Positive,0.55
+47,Male,Non-anginal Pain,138,257,No,Normal,156,No,0.0,Upsloping,0,Normal,Negative,0.28,Negative,0.25,Negative,0.30,Negative,0.25,Negative,0.30
+62,Female,Asymptomatic,140,268,Yes,Left Ventricular Hypertrophy,160,No,3.6,Downsloping,2,Normal,Positive,0.92,Positive,0.95,Positive,0.90,Positive,0.95,Positive,0.90
+53,Male,Atypical Angina,130,246,No,Normal,173,No,0.0,Upsloping,3,Reversible Defect,Negative,0.35,Negative,0.30,Negative,0.40,Negative,0.35,Negative,0.35
+59,Female,Typical Angina,135,234,Yes,ST-T Wave Abnormality,161,No,0.5,Flat,0,Normal,Negative,0.27,Negative,0.25,Negative,0.30,Negative,0.25,Negative,0.30
